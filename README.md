@@ -4,3 +4,6 @@
 可以轻松的用两个大拇指打字
 使用
 build.sh构建
+
+![](dis.png)
+![](disa.png)
