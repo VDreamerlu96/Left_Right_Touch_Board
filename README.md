@@ -1,6 +1,3 @@
 # Left_Right_Touch_Board
-This is a Keyboard on screen,in the edge.
+这是一个在屏幕两边的屏幕键盘
 
-it's only depend xcb.
-
-use build.sh
